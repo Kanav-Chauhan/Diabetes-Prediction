@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction - https://kanav-diabetes-prediction.streamlit.app/
+# 🩺 Diabetes Prediction - [Click for Live Demo](https://kanav-diabetes-prediction.streamlit.app/)
 
 This project is a **machine learning classification model** that predicts whether a person is **diabetic** or **non-diabetic** based on various health parameters.
 
